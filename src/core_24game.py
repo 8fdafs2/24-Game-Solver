@@ -1,8 +1,3 @@
-'''
-Created on Sep 11, 2015
-
-@author: ray.wang
-'''
 import itertools
 
 

@@ -1,8 +1,3 @@
-'''
-Created on Sep 11, 2015
-
-@author: ray.wang
-'''
 from core_24game import calc
 
 if __name__ == '__main__':
